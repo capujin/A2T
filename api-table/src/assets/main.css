@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'songti';
+  src: url('./songti.ttf');
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
